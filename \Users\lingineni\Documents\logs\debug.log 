@@ -1,0 +1,4 @@
+2019-02-23 17:56:21 DEBUG SpringBootExample4Application:16 - Debug level log messages
+2019-02-23 17:56:21 ERROR SpringBootExample4Application:17 - Error level log messages
+java.lang.NullPointerException: NullError
+	at com.javainuse.SpringBootExample4Application.main(SpringBootExample4Application.java:17) [classes/:?]
